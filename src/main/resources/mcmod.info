@@ -1,0 +1,19 @@
+[
+{
+  "modid": "MineMoney",
+  "name": "MineMoney Mod",
+  "description": "You can buy something with your old and useless xp",
+  "version": "0.1.3",
+  "credits": "Created by TheHacker000",
+  "logoFile": "/logo.png",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "TheHacker000" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
